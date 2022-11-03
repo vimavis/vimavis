@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Victor Vasquez</h1>
 <h3 align="center">Software architecture and lover of programming.</h3>
 
-- 🔭 I’m currently working on [Medicap](https://lebox.com/)
+- 🔭 I’m currently working on [Accenture](https://www.accenture.com/cl-es)
 
-- 🌱 I’m currently learning **Rust, TS**
-
-- 👯 I’m looking to collaborate on [PeerJS](https://github.com/peers/peerjs)
+- 🌱 I’m currently learning **Rust, Go**
 
 - 💬 Ask me about **Vue, JS, C++, Algorithm Optimization**
 
