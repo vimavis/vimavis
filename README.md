@@ -6,13 +6,13 @@
 ### <div align="center">Hi 👋, I'm Victor Vasquez, a full-time backend developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
-- 🔭 I’m currently working on [Accenture](https://www.accenture.com/cl-es)  
+- 🔭 I’m currently working on [La Araucana](https://www.laaraucana.cl/)  
   
 
-- 🌱 I’m currently learning **Rust, Go and Kubernetes**  
+- 🌱 I’m currently learning **Nuxt, Next and NestJS**  
   
 
-- ❓ Ask me about **Vue, JS, C++, Algorithm Optimization**  
+- ❓ Ask me about **Vue, TS/JS, C++, Algorithm Optimization**  
   
 
 - 📫 How to reach me **vvasquez@ing.ucsc.cl**  
